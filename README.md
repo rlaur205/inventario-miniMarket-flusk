@@ -57,3 +57,20 @@ El sistema utiliza ventanas modales para agilizar la entrada de datos sin perder
 * **Gráficos:** Chart.js
 
 ---
+## ⚙️ Instalación y Ejecución
+
+1. **Clona el repositorio:**
+   `git clone https://github.com/rlaur205/inventario-colegio-flusk.git`
+   `cd inventario-colegio-flusk`
+
+2. **Instala las dependencias:**
+   `pip install flask`
+
+3. **Inicializa la base de datos:**
+   `python reset_db.py`
+
+4. **Lanza la aplicación:**
+   `python app.py`
+
+5. **Accede en tu navegador a:**
+   `http://localhost:5000`
