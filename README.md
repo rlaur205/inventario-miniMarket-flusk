@@ -1,4 +1,4 @@
-# 📦 Sistema de Gestión de Inventario para Colegio
+# 📦 Sistema de Gestión de Inventario para Minimarket
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Flask](https://img.shields.io/badge/Flask-Framework-lightgrey?logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
