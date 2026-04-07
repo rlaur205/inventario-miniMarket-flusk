@@ -1,4 +1,4 @@
-# Sistema de Gestión de Inventario para Colegio
+# Sistema de Gestión de Inventario para Mini Market
 ### Documentación Técnica del Proyecto
 
 **Repositorio:** https://github.com/rlaur205/inventario-colegio-flusk  
@@ -8,7 +8,7 @@
 
 ## 1. Descripción General
 
-El **Sistema de Gestión de Inventario para Colegio** es una aplicación web desarrollada con el framework Flask (Python) que permite administrar el inventario de una institución educativa. El sistema registra productos, controla entradas y salidas de stock, gestiona proveedores y genera reportes visuales a través de un dashboard interactivo.
+El **Sistema de Gestión de Inventario para un Mini market** es una aplicación web desarrollada con el framework Flask (Python) que permite administrar el inventario de una tienda. El sistema registra productos, controla entradas y salidas de stock, gestiona proveedores y genera reportes visuales a través de un dashboard interactivo.
 
 Este proyecto fue desarrollado como trabajo para un curso universitario y abarca los conceptos fundamentales de desarrollo web backend, manejo de bases de datos relacionales y construcción de APIs REST.
 
