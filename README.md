@@ -5,7 +5,7 @@
 [![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite&logoColor=white)](https://www.sqlite.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Una solución web moderna diseñada para el control de suministros en instituciones educativas. Gestiona stock, proveedores y movimientos con reportes visuales en tiempo real.
+Una solución web moderna diseñada para el control de suministros en tiendas pequeñas. Gestiona stock, proveedores y movimientos con reportes visuales en tiempo real.
 
 ---
 
